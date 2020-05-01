@@ -1,1 +1,1 @@
-# Booth-s-Multiplier
+# Booths-Multiplier
