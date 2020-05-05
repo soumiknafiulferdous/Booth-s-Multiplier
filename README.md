@@ -1,1 +1,1 @@
-# Booths Multiplier
+# Booth's Multiplier
